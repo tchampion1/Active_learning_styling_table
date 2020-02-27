@@ -1,0 +1,52 @@
+
+table {
+    width: 100%;
+}
+table, td, th {
+    table-layout: fixed;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+td, caption {
+    text-align: center;
+}
+
+#vzw_att_rank {
+    background-color: white;
+}
+
+#solutions {
+    background-color: white;
+}
+
+
+#cap_ {
+    margin-top: 10%;
+}
+
+.ft_total_units {
+    position: absolute;
+    bottom: 70px;
+    right: 0;
+}
+
+.pt_total_units {
+    position: absolute;
+    bottom: 50px;
+    right: 0;
+}
+
+  .container {
+      position: relative;
+  }
+
+/* .item {
+    color: #fff;
+	padding: 15px;
+	margin: 5px;	
+	background: #3db5da;
+	border-radius: 3px;
+}  */
+
+
